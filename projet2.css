@@ -1,0 +1,44 @@
+
+body{
+    background-image: url(coder.jpg );
+    background-size: cover;
+}
+
+
+.global{
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    width: 240px;
+    height: 350px;
+    border-radius: 10px;
+    margin: 100px auto;
+
+}
+.global h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form input{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    
+}
+.form button{
+    background-color:blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    color: white;
+    width: 170px;
+    height: 32px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.form span{
+    color: white;
+}
+.global .foget{
+    color: white;
+}
